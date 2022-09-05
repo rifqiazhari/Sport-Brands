@@ -25,5 +25,5 @@
 &emsp;&emsp;`theme_ipsum_pub() +`<br/>
 &emsp;&emsp;`theme(legend.position="bottom") #memindahkan legend ke bawah`<br/>
 	
-#export file
+`#export file`<br/>
 `write.csv(databola_reshaped, "databola_reshaped.csv")`<br/>
